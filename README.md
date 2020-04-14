@@ -1,2 +1,2 @@
-# AaronMath
-All things Aaron and all things math.
+# Teacher Page Template
+This is a template for any teachers who wish to use github pages. 
